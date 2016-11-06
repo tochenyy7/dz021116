@@ -1,0 +1,60 @@
+﻿
+
+
+.big {
+ 	
+    background: grey; 
+    border: solid 1px black; 
+    border-radius: 10px;
+    position: relative;
+    height: 600px; 
+}
+
+.block1 {
+ 	 
+    background: yellow;
+    border: solid 1px black; 
+    border-radius: 10px;
+    height: 90px;
+    position: absolute; 
+    bottom: 508px; 
+    left: 0px; 
+    width: 90px;
+ 
+}
+
+.block2 {
+ 	position: absolute; 
+    background: green;
+    border: solid 1px black; 
+  	border-radius: 10px;
+    height: 180px;
+    right: 0px;
+    width: 380px; 
+    bottom: 35%;
+}
+
+
+.block3 {
+    
+    background: red; 
+    border: solid 1px black; 
+    height: 60px;
+    position: absolute; 
+    width: 60px; 
+    left: 80px;
+    bottom: 80px;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
